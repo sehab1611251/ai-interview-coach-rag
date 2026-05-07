@@ -31,7 +31,7 @@ test_retrieval.py       # General retrieval test
 test_retrieval_2.py     # CV-specific retrieval test
 ```
 
-# Screenshots
+# System Visuals
 
 ### Home Page
 
