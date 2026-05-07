@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+chroma_db/
+.env
+.DS_Store
+external_knowledge/CV.pdf

@@ -1,0 +1,46 @@
+SAMPLE ANSWER 1
+Question Type: Tell me about yourself
+Answer:
+I recently completed my Master’s degree in Artificial Intelligence and Data Engineering at Ca’ Foscari University of Venice. My academic background and projects focused on machine learning, computer vision, NLP, and practical AI system development. For example, in my thesis I worked on 3D group detection using distance-based clustering on LiDAR-based pedestrian detections. I also developed an NLP spam detection project using RNN and attention mechanisms, and I have experience with Python, PyTorch, TensorFlow, scikit-learn, and Azure fundamentals. I am now looking for a role where I can contribute to real AI products and continue growing in both technical depth and system design.
+
+
+SAMPLE ANSWER 2
+Question Type: Tell me about a technical project
+Answer:
+One of my most important projects was my Master’s thesis on 3D group detection using distance-based clustering. The goal was to detect pedestrian groups in 3D scenes using LiDAR-based detections without relying on semantic cues or training-based methods. I designed a lightweight pipeline where pedestrian detections were processed and then grouped using DBSCAN based on geometric proximity. A key challenge was creating a method that remained simple but still useful in crowded or partially occluded scenes. This project taught me how to structure a computer vision pipeline, evaluate design choices, and explain technical results clearly.
+
+
+SAMPLE ANSWER 3
+Question Type: Why are you interested in this role?
+Answer:
+I am interested in this role because it combines AI development with practical implementation. My background is not only theoretical. Through my university projects and internship, I worked on machine learning, computer vision, and NLP problems that required both experimentation and problem solving. I enjoy building systems that transform data into something useful for users, and this role would allow me to apply my Python and AI skills in a real product environment. Since I studied in Venice and hold an Italian work permit, I am also ready to contribute locally and grow in a long-term role.
+
+
+SAMPLE ANSWER 4
+Question Type: How do you approach learning a new technology?
+Answer:
+I usually start by understanding the problem the technology is trying to solve. Then I study the basic concepts, test a small example, and build a minimal working prototype. After that, I improve it step by step by reading documentation, comparing different approaches, and testing edge cases. I used this approach during my thesis and also while working with different machine learning frameworks. I find that building a small working system first helps me learn faster and identify the most important practical details.
+
+
+SAMPLE ANSWER 5
+Question Type: Give an example of teamwork
+Answer:
+During my academic and training experiences, I worked in team-based project settings where communication and task coordination were important. In my software engineer trainee experience, I was exposed to Agile methodologies and collaborative development practices. I learned that teamwork is not only about dividing tasks, but also about explaining progress clearly, asking for feedback, and aligning technical work with the team goal. I try to communicate clearly and stay open to improvements, especially when working on technical tasks that affect others.
+
+
+SAMPLE ANSWER 6
+Question Type: What are your strengths?
+Answer:
+I would say my main strengths are analytical thinking, adaptability, and hands-on problem solving. I am comfortable learning new tools when needed, and I like to understand both the technical details and the system-level purpose of a project. My background across computer vision, NLP, and machine learning has also helped me become flexible. I can move between experimentation, implementation, and explanation, which is useful in junior AI roles where people often need to support multiple parts of a workflow.
+
+
+SAMPLE ANSWER 7
+Question Type: Example of solving a problem
+Answer:
+In my thesis work, one important challenge was finding a simple but effective way to identify groups in 3D pedestrian detections without relying on more complex tracking or semantic information. I explored distance-based clustering because it aligned well with the type of data available and the system constraints. By designing the pipeline around geometric proximity, I created an approach that was lightweight and interpretable. That experience taught me how to choose a method not only for performance, but also for simplicity and practical usefulness.
+
+
+SAMPLE ANSWER 8
+Question Type: Why should we hire you?
+Answer:
+You should hire me because I bring a strong academic foundation in AI together with practical project experience in computer vision, NLP, and machine learning. I am comfortable with Python and common AI libraries, and I enjoy building prototypes that solve real problems. I also have the motivation to keep improving and contribute in a team environment. As a recent graduate, I may still be early in my career, but I can bring energy, adaptability, and a serious willingness to learn and deliver value.

@@ -1,0 +1,113 @@
+JOB DESCRIPTION 1
+Title: Junior AI Engineer
+Location: Venice, Italy
+Company Type: AI Solutions Startup
+
+About the Role:
+We are looking for a Junior AI Engineer to support the design and development of AI-powered applications. The candidate will work on machine learning pipelines, prompt-based systems, and basic LLM application development. The role includes working with Python, APIs, model evaluation, and integration of AI modules into user-facing applications.
+
+Responsibilities:
+- Develop and test AI prototypes using Python
+- Build simple applications using LLM APIs
+- Preprocess and analyze structured and unstructured data
+- Assist in machine learning experimentation and model evaluation
+- Collaborate with product and technical teams to improve AI features
+- Document technical workflows and design decisions
+
+Requirements:
+- Degree in Artificial Intelligence, Computer Science, Data Science, or related field
+- Good knowledge of Python
+- Familiarity with machine learning libraries such as scikit-learn, TensorFlow, or PyTorch
+- Basic understanding of NLP, computer vision, or data analysis
+- Ability to work with APIs and integrate AI into applications
+- Good communication skills in English
+- Italian language is a plus
+
+Preferred:
+- Experience with Streamlit or similar rapid prototyping tools
+- Familiarity with LLM workflows or prompt engineering
+- Exposure to cloud tools such as Microsoft Azure
+
+
+JOB DESCRIPTION 2
+Title: Junior Computer Vision Engineer
+Location: Venice, Italy
+Company Type: Research and Innovation Lab
+
+About the Role:
+We are seeking a Junior Computer Vision Engineer to contribute to applied research and development projects in intelligent perception systems. The role involves working with 2D and 3D data, testing detection pipelines, and supporting experiments related to image understanding, scene analysis, and robotics.
+
+Responsibilities:
+- Assist in the development of computer vision pipelines
+- Work with image and point cloud data
+- Support testing and evaluation of detection and clustering methods
+- Analyze experimental outputs and prepare reports
+- Collaborate with researchers and software engineers
+
+Requirements:
+- Background in computer vision, machine learning, or AI
+- Strong Python programming skills
+- Familiarity with PyTorch or TensorFlow
+- Understanding of detection, segmentation, or clustering concepts
+- Ability to explain technical work clearly
+
+Preferred:
+- Experience with LiDAR or 3D perception
+- Knowledge of clustering algorithms such as DBSCAN
+- Familiarity with research-style experimentation and benchmarking
+
+
+JOB DESCRIPTION 3
+Title: Junior NLP / AI Engineer
+Location: Venice, Italy
+Company Type: Digital Communication Technology Company
+
+About the Role:
+We are hiring a Junior NLP / AI Engineer to support the development of language-based AI tools. The candidate will help with text classification, prompt design, response evaluation, and AI-assisted user applications.
+
+Responsibilities:
+- Build and test NLP prototypes in Python
+- Work on text classification and language understanding tasks
+- Evaluate generated responses and improve output quality
+- Support prompt design and structured output formatting
+- Collaborate with software engineers to integrate NLP modules into applications
+
+Requirements:
+- Degree in AI, Data Engineering, Computer Science, or similar
+- Experience with NLP fundamentals
+- Python programming and basic deep learning knowledge
+- Familiarity with text preprocessing and sequence models
+- Strong analytical and communication skills
+
+Preferred:
+- Experience with attention-based models, RNNs, or LSTMs
+- Exposure to interview coaching, educational AI tools, or feedback systems
+- Italian work authorization
+
+
+JOB DESCRIPTION 4
+Title: AI/Data Engineering Graduate Trainee
+Location: Venice, Italy
+Company Type: Innovation-Oriented Tech Company
+
+About the Role:
+This graduate trainee role is designed for candidates with a recent Master’s degree who want to grow in AI and data engineering. The candidate will rotate across prototyping, analytics, model testing, and simple deployment support.
+
+Responsibilities:
+- Assist in AI and data-driven application development
+- Support model evaluation and result analysis
+- Work with Python-based tools for prototyping and reporting
+- Prepare technical documentation and presentation material
+- Participate in Agile team activities
+
+Requirements:
+- Recent Master’s degree in AI, Data Engineering, or Computer Science
+- Python and SQL knowledge
+- Familiarity with machine learning workflows
+- Good teamwork and communication skills
+- Interest in real-world AI applications
+
+Preferred:
+- Experience with ML projects in university or internship settings
+- Exposure to cloud platforms
+- English fluency and basic Italian

@@ -1,0 +1,116 @@
+STAR GUIDELINES FOR INTERVIEW ANSWERS
+
+STAR stands for:
+- Situation
+- Task
+- Action
+- Result
+
+It is a structured way to answer behavioral and project-based interview questions.
+
+--------------------------------------------------
+1. SITUATION
+--------------------------------------------------
+Explain the context briefly.
+Answer:
+- Where were you?
+- What project or task were you working on?
+- What was happening?
+
+Example:
+During my Master’s thesis at Ca’ Foscari University, I worked on a 3D group detection project using LiDAR-based pedestrian detections.
+
+Keep it short. Do not spend too much time here.
+
+--------------------------------------------------
+2. TASK
+--------------------------------------------------
+Explain your responsibility or objective.
+Answer:
+- What were you expected to do?
+- What problem were you trying to solve?
+- What was your specific role?
+
+Example:
+My task was to design a lightweight method to identify pedestrian groups using only geometric proximity, without relying on semantic cues or training-based methods.
+
+This part clarifies what YOU had to do.
+
+--------------------------------------------------
+3. ACTION
+--------------------------------------------------
+Explain what you actually did.
+Answer:
+- What method did you choose?
+- What steps did you follow?
+- What tools or technologies did you use?
+- Why did you choose that approach?
+
+Example:
+I designed a pipeline that processed LiDAR-based detections and grouped them using DBSCAN clustering. I tested how a distance-based method could work under practical constraints and focused on making the system simple and interpretable.
+
+This is usually the most important part.
+
+--------------------------------------------------
+4. RESULT
+--------------------------------------------------
+Explain the outcome.
+Answer:
+- What happened in the end?
+- What did you learn?
+- What improvement or value came from your work?
+
+Example:
+The result was a lightweight 3D group detection approach suitable for real-time scenarios such as robotics or surveillance. I also learned how to make technical design decisions based on both performance and simplicity.
+
+This part should show impact and reflection.
+
+--------------------------------------------------
+HOW TO USE STAR WELL
+--------------------------------------------------
+1. Focus on your contribution, not only the team.
+2. Keep the answer structured and easy to follow.
+3. Use concrete technical details where useful.
+4. End with a result or lesson learned.
+5. Avoid being too vague.
+
+--------------------------------------------------
+STAR EXAMPLE 1
+Question: Tell me about a project you are proud of.
+--------------------------------------------------
+Situation:
+During my Master’s thesis, I worked on a 3D group detection problem using LiDAR-based detections.
+
+Task:
+I needed to create a lightweight system for identifying pedestrian groups without depending on semantic cues or model retraining.
+
+Action:
+I designed a distance-based clustering pipeline using DBSCAN and focused on a simple geometric approach. I also thought carefully about how the method could be useful in crowded scenes and practical deployment scenarios.
+
+Result:
+The final system was lightweight and suitable for real-time contexts. It also helped me improve my skills in computer vision pipeline design and technical evaluation.
+
+--------------------------------------------------
+STAR EXAMPLE 2
+Question: Describe a challenge you faced.
+--------------------------------------------------
+Situation:
+While working on AI projects, I often needed to move from theory to implementation quickly.
+
+Task:
+One challenge was choosing an approach that was both technically valid and practically manageable.
+
+Action:
+Instead of selecting a highly complex method immediately, I first built a minimal working version, tested its behavior, and improved it step by step.
+
+Result:
+This helped me make better design decisions and complete projects more effectively, while also learning how to balance simplicity and performance.
+
+--------------------------------------------------
+HOW THIS FILE CAN HELP THE APP
+--------------------------------------------------
+The app can use these guidelines to:
+- improve answer evaluation
+- suggest better structure
+- rewrite weak answers in STAR format
+- explain why an answer is too vague
