@@ -31,6 +31,17 @@ test_retrieval.py       # General retrieval test
 test_retrieval_2.py     # CV-specific retrieval test
 ```
 
+# Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### System Diagram
+
+![System Diagram](screenshots/diagram.png)
+
+
 # How to Run the Project
 
 ### 1. Clone the repository
